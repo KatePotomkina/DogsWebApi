@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogsWebApi", "DogsWebApi.csproj", "{BC1818FA-D9B0-4293-AE4E-B801CD372E5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogsWebApiTest", "DogsWebApiTest\DogsWebApiTest.csproj", "{D6E2F79A-D9DD-4295-844E-3EB2EA5E3D20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{BC1818FA-D9B0-4293-AE4E-B801CD372E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC1818FA-D9B0-4293-AE4E-B801CD372E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC1818FA-D9B0-4293-AE4E-B801CD372E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E2F79A-D9DD-4295-844E-3EB2EA5E3D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E2F79A-D9DD-4295-844E-3EB2EA5E3D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E2F79A-D9DD-4295-844E-3EB2EA5E3D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E2F79A-D9DD-4295-844E-3EB2EA5E3D20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
